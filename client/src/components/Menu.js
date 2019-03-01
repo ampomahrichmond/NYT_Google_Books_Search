@@ -39,11 +39,11 @@ export const Menu = ({ setVisibility, visibility }) => {
           <FaHome style={color} />
         )}
       </span>
-      <span>
+      {/* <span>
         <a href="https://github.com/ampomahrichmond/NYT_Google_Books_Search">
           <GoMarkGithub/>
         </a>
-      </span>
+      </span> */}
     </nav>
   );
 };
